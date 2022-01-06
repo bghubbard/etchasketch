@@ -30,3 +30,6 @@ h1, #footer {
     height: 960px;
     margin: 0px;
 }
+.hover {
+    background-color: black;
+}
